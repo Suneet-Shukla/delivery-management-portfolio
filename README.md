@@ -4,6 +4,10 @@ A collection of dashboards, templates and case studies demonstrating my approach
 
 ## Dashboards
 
+### [Delivery Progress Summary Dashboard](dashboards/delivery-progress-summary)
+
+Provides leadership with an overall view of feature completion, closure rates and delivery progress across teams.
+
 ### [Dependency Management Dashboard](dashboards/dependency-management)
 
 Provides visibility into cross-team dependencies, schedule conflicts, missing dates, delivery risks and ownership.
