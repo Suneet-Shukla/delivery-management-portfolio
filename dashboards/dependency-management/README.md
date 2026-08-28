@@ -5,6 +5,16 @@
 This Power BI dashboard provides visibility into dependencies across
 teams, features and delivery milestones.
 
+## Dashboard Screenshots
+
+### Dependency Summary
+
+![Dependency Summary](dependency-summary.png)
+
+### Dependency Details
+
+![Dependency Details](dependency-details.png)
+
 ## Audience
 
 - Senior leadership
