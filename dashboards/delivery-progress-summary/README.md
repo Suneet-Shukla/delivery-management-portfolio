@@ -35,7 +35,3 @@ Leadership needed a consolidated view of feature progress across multiple teams.
 - Designed the summary dashboard structure
 - Consolidated delivery information across teams
 - Used the dashboard to support progress reviews and leadership discussions
-
-## Data Notice
-
-All information shown in this portfolio version is sanitized or fictional and is included only for demonstration purposes.
