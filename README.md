@@ -12,6 +12,12 @@ Provides leadership with an overall view of feature completion, closure rates an
 
 Provides visibility into cross-team dependencies, schedule conflicts, missing dates, delivery risks and ownership.
 
+## Delivery Templates
+
+### [Delivery KPI and Roadmap Tracker](templates/delivery-kpi-roadmap)
+
+An Excel-based governance tracker covering roadmap delivery, release readiness, RAID management, discovery gates and work-item hygiene.
+
 ## Portfolio Focus
 
 - Delivery planning and governance
