@@ -4,6 +4,10 @@
 
 This Excel workbook provides a structured approach to tracking roadmap delivery, release readiness, risks, dependencies, discovery governance and work-item quality.
 
+## Download the Template
+
+[Download the Delivery KPI and Roadmap Tracker](Delivery-KPI-Roadmap-Portfolio-Sample.xlsx)
+
 ## Workbook Contents
 
 ### Roadmap Delivery
