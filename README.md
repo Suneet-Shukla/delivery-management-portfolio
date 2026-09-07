@@ -28,3 +28,11 @@ An Excel-based governance tracker covering roadmap delivery, release readiness, 
 - Risk and issue management
 
 > All portfolio examples use sanitized or fictional data.
+
+## What This Portfolio Demonstrates
+
+- Delivery planning and roadmap management
+- KPI and executive-level reporting
+- Dependency, risk and governance management
+- Practical use of Azure DevOps, Power BI and Excel
+- Structured communication for delivery leadership
