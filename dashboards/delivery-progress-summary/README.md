@@ -35,3 +35,15 @@ Leadership needed a consolidated view of feature progress across multiple teams.
 - Designed the summary dashboard structure
 - Consolidated delivery information across teams
 - Used the dashboard to support progress reviews and leadership discussions
+
+## How Leadership Can Use It
+
+- Monitor overall delivery progress and closure trends
+- Compare performance across teams and delivery areas
+- Identify teams or workstreams requiring attention
+- Support prioritisation and delivery-review discussions
+- Track whether delivery is progressing towards planned outcomes
+
+## Data Privacy
+
+All names, metrics and delivery information displayed in this portfolio example are fictional or sanitized. No confidential company, customer or employee data is included.
