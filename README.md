@@ -29,6 +29,12 @@ An Excel-based governance tracker covering roadmap delivery, release readiness, 
 
 > All portfolio examples use sanitized or fictional data.
 
+## Case Studies
+
+### [AI-Assisted Delivery Management](case-studies/ai-delivery-management/README.md)
+
+An illustrative case study showing how AI can support backlog readiness, risk identification, dependency management, leadership reporting and delivery decision-making.
+
 ## What This Portfolio Demonstrates
 
 - Delivery planning and roadmap management
